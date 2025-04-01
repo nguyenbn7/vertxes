@@ -1,0 +1,3 @@
+curl "http://localhost:8888/api/posts"
+###
+curl "http://localhost:8888/api/categories"
